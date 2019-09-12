@@ -1,0 +1,2 @@
+# DecentTorch
+Distributing PyTorch mechanisms
